@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 •	I am currently a 1st year student at IIIT Allahabad\
-•	Learning Web Development and Competitive Programming\
+•	Learning Web Development and Competitive Programming
 
-Skills -\ 
+Skills\
 • HTML\
 • CSS\
 • Javascript\
 • C++\
-• C\
+• C
 
 Website - https://sanyamagrawal07.github.io/HINT-Resume-Project/
