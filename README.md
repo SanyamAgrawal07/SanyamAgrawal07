@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 •	I'm a 2nd year student at IIIT Allahabad\
 - 🌱 I’m currently learning Backend Web Development and Competitive Programming
-- - 📫 How to reach me: https://www.linkedin.com/in/sanyam-agrawal-83b120223/
+- 📫 How to reach me: https://www.linkedin.com/in/sanyam-agrawal-83b120223/
 <!-- •	Learning Backend Web Development and Competitive Programming -->
 <!-- 
 Skills\
