@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- •	I am currently a 2nd year student at IIIT Allahabad\
-•	Learning Web Development and Competitive Programming -->
+•	I'm a 2nd year student at IIIT Allahabad\
+- 🌱 I’m currently learning Backend Web Development and Competitive Programming
+- - 📫 How to reach me: https://www.linkedin.com/in/sanyam-agrawal-83b120223/
+<!-- •	Learning Backend Web Development and Competitive Programming -->
 <!-- 
 Skills\
 • HTML\
