@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-•	I am currently a 1st year student at IIIT Allahabad\
-•	Learning Web Development and Competitive Programming
-
+<!-- •	I am currently a 2nd year student at IIIT Allahabad\
+•	Learning Web Development and Competitive Programming -->
+<!-- 
 Skills\
 • HTML\
 • CSS\
@@ -24,4 +24,4 @@ Skills\
 • C++\
 • C
 
-Website - https://sanyamagrawal07.github.io/HINT-Resume-Project/
+Website - https://sanyamagrawal07.github.io/HINT-Resume-Project/ -->
