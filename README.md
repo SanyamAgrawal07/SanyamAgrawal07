@@ -27,18 +27,21 @@
 
 <br><br>
 
-- :school: I am a `Senior` in B.Tech Information Technology at [Indian Institute of Information Technology Allahabad](https://www.iiita.ac.in).
-- :trophy: Winner OpenCode'22.
+- I am a `Senior` in B.Tech Information Technology at [Indian Institute of Information Technology Allahabad](https://www.iiita.ac.in).
+- `Project Intern` at `Oracle`
+- `Content Developer Intern` at `Codechef`
+- Winner OpenCode'22.
 <!-- - :technologist: I love using Software as a solution for every `Problem`. -->
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- I am a competitive programmer at `Codeforces`, `Leetcode`, `Google Contests`.
+<!-- - I’m currently learning `Computer Science` and `Software Engineering`.  -->
 <!-- - :thinking: Always `learning new things`. -->
-- :nerd_face: This is [MY RESUME](https://drive.google.com/file/d/1LMXwQf0ehnfKC4HSaZKJZ3R07etBoNKH/view?usp=sharing).
+- This is [MY RESUME](https://drive.google.com/file/d/1zRHNmdXcBl9fwKAW0TbDFT6T-4ZU9i5A/view?usp=sharing).
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
-<br>
+<be>
 
+<!-- <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> -->
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/SanyamAgrawal07"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -62,9 +65,11 @@
 
 
 
-## 🛠️ My Skills
+## My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> -->
+
+### Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -89,7 +94,9 @@
   </a> -->
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
+<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> -->
+
+### Backend Development
 <p align="center"> 
 <!--   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -117,7 +124,7 @@
   </a> 
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Utilities and Databases
+ ### Utilities and Databases
  
 <p align="center">
 <!--   &emsp;
