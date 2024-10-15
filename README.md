@@ -1,9 +1,8 @@
 <h1 align="center">Hi , I'm Sanyam Agrawal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<!-- 	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Knight+on+Leetcode;Backend Web Developer;Always+learning+new+things"> -->
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">  
 <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Knight+on+Leetcode;Backend Web Developer;Always+learning+new+things" /></a>
-</p>
+</p> -->
 
 
 <br>
@@ -28,7 +27,7 @@
 
 <br><br>
 
-- :school: I am a `Sophomore` in B.Tech Information Technology at [Indian Institute of Information Technology Allahabad](https://www.iiita.ac.in).
+- :school: I am a `Senior` in B.Tech Information Technology at [Indian Institute of Information Technology Allahabad](https://www.iiita.ac.in).
 - :trophy: Winner OpenCode'22.
 <!-- - :technologist: I love using Software as a solution for every `Problem`. -->
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Google Contests`.
